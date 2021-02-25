@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/saranyakannan-v/React_KeeperApp.git/static/js/main.b82e93c9.chunk.js",
-    "main.js.map": "/saranyakannan-v/React_KeeperApp.git/static/js/main.b82e93c9.chunk.js.map",
-    "runtime-main.js": "/saranyakannan-v/React_KeeperApp.git/static/js/runtime-main.4d8f2105.js",
-    "runtime-main.js.map": "/saranyakannan-v/React_KeeperApp.git/static/js/runtime-main.4d8f2105.js.map",
-    "static/js/2.ee1d7b80.chunk.js": "/saranyakannan-v/React_KeeperApp.git/static/js/2.ee1d7b80.chunk.js",
-    "static/js/2.ee1d7b80.chunk.js.map": "/saranyakannan-v/React_KeeperApp.git/static/js/2.ee1d7b80.chunk.js.map",
-    "index.html": "/saranyakannan-v/React_KeeperApp.git/index.html",
-    "precache-manifest.247d9253af3b4cbe6f51986926edfd1d.js": "/saranyakannan-v/React_KeeperApp.git/precache-manifest.247d9253af3b4cbe6f51986926edfd1d.js",
-    "service-worker.js": "/saranyakannan-v/React_KeeperApp.git/service-worker.js"
+    "main.js": "/React_KeeperApp/static/js/main.b82e93c9.chunk.js",
+    "main.js.map": "/React_KeeperApp/static/js/main.b82e93c9.chunk.js.map",
+    "runtime-main.js": "/React_KeeperApp/static/js/runtime-main.b95806dd.js",
+    "runtime-main.js.map": "/React_KeeperApp/static/js/runtime-main.b95806dd.js.map",
+    "static/js/2.ee1d7b80.chunk.js": "/React_KeeperApp/static/js/2.ee1d7b80.chunk.js",
+    "static/js/2.ee1d7b80.chunk.js.map": "/React_KeeperApp/static/js/2.ee1d7b80.chunk.js.map",
+    "index.html": "/React_KeeperApp/index.html",
+    "precache-manifest.812ef0a043b87a0a523aecfabdf559a5.js": "/React_KeeperApp/precache-manifest.812ef0a043b87a0a523aecfabdf559a5.js",
+    "service-worker.js": "/React_KeeperApp/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d8f2105.js",
+    "static/js/runtime-main.b95806dd.js",
     "static/js/2.ee1d7b80.chunk.js",
     "static/js/main.b82e93c9.chunk.js"
   ]
